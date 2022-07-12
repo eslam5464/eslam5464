@@ -61,8 +61,7 @@
 
  - Static Site Generators:
 <p align="left"> 
-  <a href="https://go
-         .io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a>
+  <a href="https://go.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a>
 </p> 
 
  - Other:
