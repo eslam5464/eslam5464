@@ -3,7 +3,6 @@
 <h3 align="center">Technologically savvy and focusing on Big Data with a strong background in advanced data management and troubleshooting skills</h3>
 
 👨‍💻 My website (django): [https://my-portofolio5464.herokuapp.com/](https://my-portofolio5464.herokuapp.com/)
-
   <h3 align="left">📞Connect with me:</h3>
 <p align="left">
 &emsp;&emsp;
@@ -11,6 +10,10 @@
 <a href="https://kaggle.com/eslammohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="www.kaggle.com/eslammohamed" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eslam5464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/eslam5464" height="30" width="40" /></a>
 </p>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslam5464&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<hr>
 
   <h3 align="left">🌱 I’m currently learning</h3>
 <p align="left"> 
@@ -21,7 +24,6 @@
 <a href="https://gohugo.io" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="Hugo" width="40" height="40"/> </a>
 </p>
 
-<hr>
 
 - Programming Languages:
 <p align="left"> 
