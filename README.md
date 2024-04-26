@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hi 👋, I'm Eslam Mohamed</h1>
-<h3 align="center">Technologically savvy and focusing on Backend and databases with a strong background in advanced data management and troubleshooting skills</h3>
+<h3 align="center">Technologically savvy, and I assisted in building website infrastructure and deployment pipelines to support API development using FastAPI. I have contributed to several projects that involve data processing, analysis, and visualization for various clients and sectors.</h3>
 
 👨‍💻 My website (FastApi): [https://techcrafter.dev](https://techcrafter.dev)
   <h3 align="left">📞Connect with me:</h3>
