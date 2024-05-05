@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eslam Mohamed</h1>
 <h3 align="center">Technologically savvy, and I assist in building website infrastructure and deployment pipelines to support API development using FastAPI. I have contributed to several projects that involve data processing, analysis, and visualization for various clients and sectors.</h3>
 
-👨‍💻 My website (FastApi): [https://techcrafter.dev](https://techcrafter.dev)
+👨‍💻 My website: [techcrafter.dev](https://www.techcrafter.dev)
 
   <h3 align="left">📞Connect with me:</h3>
 <p align="left">
 &emsp;&emsp;
 <a href="https://linkedin.com/in/eslam5464/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eslam5464/" height="30" width="40" /></a>
-<a href="https://kaggle.com/eslammohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="www.kaggle.com/eslammohamed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/eslam5464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/eslam5464" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🌱 Languages and frameworks</h3>
