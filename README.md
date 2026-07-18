@@ -2,18 +2,19 @@
 
 <p align="center">Backend Engineer &nbsp;·&nbsp; API Development &nbsp;·&nbsp; Infrastructure &amp; Deployment Pipelines</p>
 
-
 ## About Me
 
 Backend engineer specialising in scalable API infrastructure with Python and FastAPI. I work across the full delivery pipeline — from database design and service architecture to containerisation, CI/CD, and cloud deployment. I've contributed to projects spanning data processing, analysis, and visualisation for clients across multiple industries.
-
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eslam5464/) [![Website](https://img.shields.io/badge/techcrafter.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.techcrafter.dev)
 
-
 ## Tech Stack
+
+<table style="border: none;" border="0"  width="100%">
+<tr>
+<td valign="top">
 
 **Languages**
 
@@ -30,3 +31,14 @@ Backend engineer specialising in scalable API infrastructure with Python and Fas
 **Tools & Infrastructure**
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+
+</td>
+<td valign="top" align="right">
+
+<a href="https://gitfut.com/eslam5464">
+  <img src="https://gitfut.com/eslam5464.png" alt="My GitFut card" width="250">
+</a>
+
+</td>
+</tr>
+</table>
