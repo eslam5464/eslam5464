@@ -12,9 +12,7 @@ Backend engineer specialising in scalable API infrastructure with Python and Fas
 
 ## Tech Stack
 
-<table style="border: none;" border="0"  width="100%">
-<tr>
-<td valign="top">
+<a href="https://gitfut.com/eslam5464"><img align="right" width="250" src="https://gitfut.com/eslam5464.png" alt="My GitFut card"></a>
 
 **Languages**
 
@@ -31,14 +29,3 @@ Backend engineer specialising in scalable API infrastructure with Python and Fas
 **Tools & Infrastructure**
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-
-</td>
-<td valign="top" align="right">
-
-<a href="https://gitfut.com/eslam5464">
-  <img src="https://gitfut.com/eslam5464.png" alt="My GitFut card" width="250">
-</a>
-
-</td>
-</tr>
-</table>
