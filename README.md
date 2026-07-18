@@ -12,7 +12,7 @@ Backend engineer specialising in scalable API infrastructure with Python and Fas
 
 ## Tech Stack
 
-<a href="https://gitfut.com/eslam5464"><img align="right" width="250" src="https://gitfut.com/eslam5464.png" alt="My GitFut card"></a>
+<a target="_blank" href="https://gitfut.com/eslam5464"><img align="right" width="250" src="https://gitfut.com/eslam5464.png" alt="My GitFut card"></a>
 
 **Languages**
 
