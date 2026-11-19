@@ -3,7 +3,9 @@
 <p align="center">Backend Engineer &nbsp;·&nbsp; API Development &nbsp;·&nbsp; Infrastructure &amp; Deployment Pipelines</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eslam5464&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/eslam5464/github-profile-views-counter">
+    <img src="https://raw.githubusercontent.com/eslam5464/github-profile-views-counter/master/svg/profile/badge.svg" alt="Profile views" />
+  </a>
 </p>
 
 ## About Me
